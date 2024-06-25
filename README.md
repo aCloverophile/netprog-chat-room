@@ -1,6 +1,8 @@
 # chatroom application w/ end-to-end encryption
 ---
+
 💛 **As the semester project for the "Network Programming" course, I created a chatroom application written in Python.**
+
 ---
 
 The project aimed to sharpen our skills in working with asynchronous programming, understanding the sockets concept, analyzing example network flow between two parties and experiencing the usage of public key cryptography in chat applications.  
